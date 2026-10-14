@@ -1,4 +1,5 @@
 # API — Loja de Eletrônicos
+### ALUNA: Maria Clara Rossetti A L Manrique
 
 Atividade de Tecnologia de Construção de Software I.
 
