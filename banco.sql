@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS loja_eletronicos;
+
+USE loja_eletronicos;
+
+CREATE TABLE IF NOT EXISTS produto (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    marca VARCHAR(255) NOT NULL,
+    preco DECIMAL(10, 2) NOT NULL
+);
